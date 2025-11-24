@@ -3,6 +3,7 @@ public class A {
     int B=15;
 
     10;
+    int AB;
 
 
 }
